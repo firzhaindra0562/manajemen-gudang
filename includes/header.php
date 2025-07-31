@@ -41,10 +41,6 @@ require_once 'config/db.php';
                         <a href="customers.php" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Pelanggan</a>
                     </div>
                 </div>
-
-                <a href="orders.php" class="py-2 px-3 rounded-md text-sm font-medium text-indigo-100 hover:bg-indigo-500 hover:text-white">Pesanan Jual</a>
-                <a href="purchase_orders.php" class="py-2 px-3 rounded-md text-sm font-medium text-indigo-100 hover:bg-indigo-500 hover:text-white">Pesanan Beli</a>
-                <a href="#" class="py-2 px-3 rounded-md text-sm font-medium text-indigo-100 hover:bg-indigo-500 hover:text-white">Laporan</a>
             </div>
         </div>
     </div>
