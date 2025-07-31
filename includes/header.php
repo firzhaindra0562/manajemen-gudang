@@ -30,7 +30,7 @@ require_once 'config/db.php';
 
                 <div class="relative">
                     <button id="masterDataBtn" class="flex items-center py-2 px-3 rounded-md text-sm font-medium text-indigo-100 hover:bg-indigo-500 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-indigo-600 focus:ring-white">
-                        <span>Master Data</span>
+                        <span>Menu</span>
                         <i class="bi bi-chevron-down ml-1"></i>
                     </button>
                     <div id="masterDataMenu" class="absolute left-0 mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-20 hidden">
